@@ -5,6 +5,11 @@ Console.WriteLine(y);
 double x =123.2;
 string y = Convert.ToString(x);
 Console.WriteLine(y);
+
+bool x = true;
+string y = Convert.ToString(x);
+Console.WriteLine(y);
+
 Console.Read();
 
 <!---
