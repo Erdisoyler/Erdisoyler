@@ -10,6 +10,10 @@ bool x = true;
 string y = Convert.ToString(x);
 Console.WriteLine(y);
 
+string x = "true";
+bool y = Convert.ToBoolean(x);
+Console.WriteLine(y);
+
 Console.Read();
 
 <!---
